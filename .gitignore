@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editors and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Keys and credentials (none are needed; listed so none are committed by accident)
+*.key
+*key*.txt
+.env
+
+# Large or temporary downloads (all committed raw files are under 10 MB)
+data/raw/**/*.tmp
+data/tmp/

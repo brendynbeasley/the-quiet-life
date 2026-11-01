@@ -1,0 +1,17 @@
+naics4,industry,leaders,cr4_2017,establishments_2017,lp_ratio_90_10,tfp_ratio_90_10,tfp_growth_2007_2019,shipments_2017_bn
+3122,Tobacco manufacturing,"Altria (Marlboro), Reynolds American (Camel, Newport)",91.1,166.0,20.651748728285217,10.202165482875607,-2.5233494200583784,47.546899
+3364,Aerospace product and parts manufacturing,"Boeing, Lockheed Martin, RTX, GE Aerospace",65.4,1773.0,6.015864120262947,3.1810139558187642,-0.39265965061945657,249.793827
+3352,Household appliance manufacturing,"Whirlpool, GE Appliances, Electrolux",62.9,305.0,5.430330512732469,4.230922269890838,0.399802143850936,22.715354
+3361,Motor vehicle manufacturing,"GM, Ford, Stellantis, Toyota, Tesla",61.5,313.0,12.00592166315077,1.9947126402656867,-0.7090626354526123,323.440198
+3311,Iron and steel mills and ferroalloy manufacturing,"Nucor, Cleveland-Cliffs, Steel Dynamics, U.S. Steel",50.1,292.0,8.073604202595687,2.633147766752442,0.9675605297613222,87.557262
+3221,"Pulp, paper, and paperboard mills","International Paper, Domtar, Georgia-Pacific",45.2,367.0,3.644430092454124,2.341097882747258,0.2933679825210033,77.445263
+3116,Animal slaughtering and processing,"Tyson, JBS, Cargill, National Beef",42.5,3509.0,7.661440339855255,4.202165551880508,-0.3723591395092481,215.659705
+3241,Petroleum and coal products manufacturing,"Marathon, Valero, ExxonMobil, Phillips 66",42.0,2116.0,11.25035855839651,2.1692033926644934,-0.3164989246523377,543.450057
+3256,"Soap, cleaning compound, and toilet preparation manufacturing","Procter & Gamble, Colgate-Palmolive, Clorox",41.1,2258.0,10.891688767599726,4.8744145259668965,-1.2629284568486498,82.535409
+3341,Computer and peripheral equipment manufacturing,"Dell, HP, Hewlett Packard Enterprise",39.5,948.0,51.01909630535228,8.636522384531153,2.353371044349374,20.348651
+3254,Pharmaceutical and medicine manufacturing,"Pfizer, Merck, Eli Lilly, Johnson & Johnson",35.7,2384.0,6.1965953244497305,4.973878907547874,-0.7807462517036289,211.208419
+3121,Beverage manufacturing,"Coca-Cola, PepsiCo, Anheuser-Busch, Molson Coors",33.2,9011.0,10.40410042419571,4.84816362873884,-0.5554207268155149,107.45375
+3344,Semiconductor and other electronic component manufacturing,"Intel, Texas Instruments, Micron, GlobalFoundries",25.2,3922.0,30.34403627971476,27.221306666942795,1.1234013133043066,95.3112
+3251,Basic chemical manufacturing,"Dow, LyondellBasell, ExxonMobil Chemical",24.7,2459.0,15.736769806847684,9.449860693798389,-0.6100333716178138,217.963411
+3231,Printing and related support activities,"RR Donnelley, Quad, thousands of local printers",13.8,25262.0,3.5134554081702922,2.4180465416462016,0.2084156993162873,82.750662
+3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",thousands of small machine shops,4.3,22804.0,3.177834531839887,2.5922338647035015,-0.621626431203775,66.630532
